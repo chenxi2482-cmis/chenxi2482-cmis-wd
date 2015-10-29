@@ -1,0 +1,13 @@
+Steps of save and push the work:
+gedit ...
+git status
+git add ...
+git status(no need)
+git commit -m "comment" 
+git status(no need)
+git push 
+To check the folder: ls
+To open the folder: cd
+To go back" cd..or cd
+To paste: shift+insert
+To cancel: Ctrl+C
