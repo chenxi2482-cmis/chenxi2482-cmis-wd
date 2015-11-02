@@ -1,0 +1,20 @@
+First step:
+Start your terminal by click the balch square at the bottom left hand.
+Second step:
+Make sure you have a github account.(To do that, go to www.github.com)
+Third step:
+You need to clone your repository into your local address which is the computer you are using. You need to type in to terminal by fllowing this fomula: git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+Forth step:
+You will see "100% done" after you clone to your repository. Now you need to create your file in your repository by open your folder first, type in: cd email1234-cmis-wd to open your folder.
+Fifth step:
+Now you can create the file in your folder by type in:gedit file_name.txt
+Sixth step:
+After you finish edit and saved your file, you need to add the file to the repository by type in: git add file_name.txt
+Seventh step:
+To check your process by type :git status which you don't have to but it helps you to keep things correct.
+Eighth step:
+Type :git commit -m "comment text" to commit the file. You can type in any text in the quotation mark.
+Final step:
+You need to push your changes(files) into the github.com to make sure you don't lost it. To do this, you need to type in :git push.
+
+Now you had create a file and push it into you repository.
