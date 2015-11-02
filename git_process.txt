@@ -1,5 +1,5 @@
 First step:
-Start your terminal by click the balch square at the bottom left hand.
+Start your terminal by click the black square at the bottom left hand.
 Second step:
 Make sure you have a github account.(To do that, go to www.github.com)
 Third step:
