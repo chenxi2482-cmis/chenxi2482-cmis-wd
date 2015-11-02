@@ -15,6 +15,6 @@ To check your process by type :git status which you don't have to but it helps y
 Eighth step:
 Type :git commit -m "comment text" to commit the file. You can type in any text in the quotation mark.
 Final step:
-You need to push your changes(files) into the github.com to make sure you don't lost it. To do this, you need to type in :git push.
+You need to push your changes(files) into the github.com to make sure you don't lost it. To do this, you need to type in :git push. Type in your usename and password.
 
 Now you had create a file and push it into you repository.
