@@ -11,3 +11,12 @@ To open the folder: cd
 To go back" cd..or cd
 To paste: shift+insert
 To cancel: Ctrl+C
+
+sftp chenxi2482@cmis-hsteacher
+280748971
+put filename
+put *.file
+rm *.file (remove the file)
+!ls check the file
+!ls *.file
+
