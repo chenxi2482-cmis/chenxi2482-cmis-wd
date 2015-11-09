@@ -1,0 +1,29 @@
+h1{
+   color:#FFFFFF;
+   font-family: Arial;
+}
+
+h2{
+   color:#6699FF;
+}
+
+p{
+  color:#33CCFF;
+  font-family: Arial;
+}
+
+header{
+        background-color:#CCCCFF;
+}
+
+nav{
+    font-family: Arial;
+}
+
+main{
+     font-family: Arial;
+}
+
+footer{
+        background-color:#33CCFF;
+}
