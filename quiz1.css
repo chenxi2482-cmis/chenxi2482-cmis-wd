@@ -1,0 +1,56 @@
+h1{
+   color: yellow;
+   background-color: green;
+   font-family: Impact;
+   font-style: italic;
+   border-bottom-style: dashed;
+   border-bottom-width: 4px;
+}
+header{
+        background-color: red;
+        color: blue;
+        border-width: 2px 0px 10px 0px;
+        font-family: Impact;
+        font-style: italic;
+        border-bottom-style: dashed;
+        border-bottom-width: 9px;
+        border-bottom-color: yellow;
+}
+
+h2{
+   background-color: purple;
+   color: yellow;
+   border-right-style: solid;
+   border-right-width: 15px;
+   border-right-color: yellow;
+   font-family: Arial;
+}
+
+h3{
+   background-color: yellow;
+   color: purple;
+   border-top-style: dashed;
+   border-top-color: purple;
+   font-family: Arial;
+}
+
+p{
+  color: blue;
+}
+
+main{
+     border-left-style: groove;
+     border-right-style: groove;
+     border-left-color: orange;
+     border-right-color: orange;
+     border-right-width: 8px;
+     border-left-width: 8px;
+}
+
+footer{
+        border-style: inset;
+        border-left-color: red;
+        border-right-color: blue;
+        border-left-width: 8px;
+        border-right-width: 8px;
+}
