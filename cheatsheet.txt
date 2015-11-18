@@ -20,3 +20,8 @@ rm *.file (remove the file)
 !ls check the file
 !ls *.file
 
+localhost:8000/cmis-hsteacher/chenxi2482
+
+mkdir: foldername
+rmdir: remove the folder
+rm: remove the file
