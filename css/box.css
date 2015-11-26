@@ -1,0 +1,35 @@
+h1{
+    margin: 10px;
+    padding-top: 20px;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-width: medium;
+    border-color: #FF6666 #FF99FF;
+}
+
+h2{
+   margin: 5px;
+   padding: 10px;
+   height: auto;
+   border-style: solid;
+   border-color: blue green;
+   width: 300px;
+   
+}
+
+main{
+     padding: 0;
+     border-style: dashed;
+     border-color:orange red;
+     width:400px;
+     height: auto;
+     margin-top: 5px;
+}
+footer{
+        border-style: dashed;
+        border-color: green;
+        margin: 10px;
+        height: 50px;
+        width: 400px;
+}
