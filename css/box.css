@@ -33,3 +33,15 @@ footer{
         height: 50px;
         width: 400px;
 }
+
+footer p{
+       background-color: yellow;
+}
+
+main > h2{
+           background-color: yellow;
+}
+
+main ~ ul{
+           background-color: yellow;
+}
