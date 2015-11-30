@@ -42,6 +42,10 @@ main > h2{
            background-color: yellow;
 }
 
+main  ol{
+           background-color: yellow;
+}
+
 main ~ ul{
            background-color: yellow;
 }
