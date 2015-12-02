@@ -25,3 +25,7 @@ localhost:8000/cmis-hsteacher/chenxi2482
 mkdir: foldername
 rmdir: remove the folder
 rm: remove the file
+
+css:
+
+link for html file to link to css: <link rel="stylesheet" type="text/css" href="...css">
