@@ -1,14 +1,70 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:700);
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);  
+@import url(https://fonts.googleapis.com/css?family=Poiret+One); 
+ 
 h1{
    background-color: #FF99FF;
-   font-family: 'Quicksand', sans-serif; 
+   font-family: 'Quicksand', sans-serif;
+   border-style: outset; 
 }
 
 h2{
    font-family: 'Poiret One', cursive; 
+   color: #6699FF;
 }
 
 h3{
    font-family: 'Poiret One', cursive; 
+   color: #9999FF;
 }
+
+nav{
+    float: left;
+    width: 200px;
+    border-style: solid;
+}
+
+main{
+     margin-left: 210px;
+}
+
+table {
+        border-style: solid;
+        border-color: #99CC33;
+        margin: 5px;
+}
+
+table th{
+          color: #006699; 
+}
+
+table td{
+          color: #00CCFF;
+}
+
+footer p{
+        background-color: #99CCFF;
+        color: black;
+        border-style: solid;
+        border-color: #9999FF;
+        height: 20px;
+        font-size: 20px;
+}
+
+p{
+  color: #CC3399;
+  clear: both;
+  margin: 10px;
+  border-style: solid;
+  height: 350px;
+  font-size: 30px;
+}
+
+img{
+    clear: both;
+    clear: right;
+    height: 300px;
+    width: 300px; 
+    margin: 5px;
+    float: right;
+}
+
